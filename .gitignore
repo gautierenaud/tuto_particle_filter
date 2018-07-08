@@ -1,3 +1,10 @@
 # IDE
 .idea/
 venv/
+
+# result of execution
+*.png
+
+# Python files
+__pycache__/
+*.pyc
